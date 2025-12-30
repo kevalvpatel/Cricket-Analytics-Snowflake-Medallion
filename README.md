@@ -1,4 +1,4 @@
-# Cricket Analytics Project
+# End-to-End Cricket Analytics
 
 ## Overview
 
